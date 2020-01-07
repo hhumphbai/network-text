@@ -1,6 +1,10 @@
 import React from 'react';
 import logo from './BAI_LOGO.png';
+import annotatedText from './data/annotatedSentences.txt';
+
 import './App.css';
+
+console.log('>> annotatedText', annotatedText);
 
 function App() {
   return (
