@@ -27,7 +27,7 @@ Now considering that we have identified all occurences of genes and diseases fro
 Can you split the screen into half to diplay all the raw sentences on one side and the network on the other side?
 
 ### Example Output:
-![Alt text](./frontend_text_2_network_text2network__output "Exercise output")
+![Alt text](./frontend_text_2_network_text2network__output.png "Exercise output")
 
 ### Notes:
 * For the network representation you may want to use a libray similar to [Cytoscape JS](https://js.cytoscape.org/), the data transformed in the previous step may need further adjustment depending on the library chosen.
